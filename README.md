@@ -1,5 +1,5 @@
 # California-Housing-Prices
-This is the First project From the book  Hands-on Machine Learning with Scikit-Learn and TensorFlow by Géron
+This is My First project From the book  Hands-on Machine Learning with Scikit-Learn and TensorFlow by Géron
 
 
 This dataset was based on data from the 1990 California census. It is not exactly recent (you could
